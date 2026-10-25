@@ -1,10 +1,10 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.4
+version=1.5
 784e8f2b52a77b126d0eda3e8603f97adf7c6db8|files/Data/ui/themes/rose/game/avatar_selection.html
 806d939459c5ba415565add3ffd2edf46518c432|files/Data/ui/themes/rose/game/crafting.html
 8bf657d28cc682ab79b1b9b273edaaa5f584fcef|files/Data/ui/themes/rose/game/personal_store_management.html
-587d69abed5b84de2e965d6a38d337bdcd02637d|mod.ini
+9297adfc5a991c3e66df3f3a4d5b2833ff5a8c16|mod.ini
 b4c45c14abe82079c5ca50bfe4597db015a5319c|files/Data/ui/themes/rose/game/monster_inspector.html
 40460fec0e5c3f60afa7f8646e6d544a5b4d31f4|files/Data/ui/themes/rose/game/avatar_store.html
-ce101b21ea71d5571185d833847d841fa5eae03b|files/Data/ui/themes/rose/game/personal_vending.html
+4e3665ac7b2447f52fefc3e7584bb77e8def79af|files/Data/ui/themes/rose/game/personal_vending.html
 69331f5444593c8f1e457d22af63f24f28718c93|files/Data/ui/themes/rose/game/quickbar.html

@@ -17,6 +17,9 @@
             #personal-vending .vending-selection { display: block; position: relative; min-height: 28dp; }
             #selected-name { display: block; min-width: 0; white-space: normal; word-break: break-word; overflow: visible; margin: 0 106dp 0 0; padding: 5dp 0; line-height: 18dp; }
             #personal-vending .vending-selection .ui-currency { position: absolute; right: 0dp; top: 50%; transform: translateY(-50%); white-space: nowrap; }
+            /* Default UI Fixes: Reset and Start / Stop side by side */
+            #personal-vending .ui-actions { display: flex; flex-direction: row; justify-content: center; gap: 8dp; }
+            #personal-vending .ui-actions button { flex: 1 1 0; min-width: 0; margin: 0; }
             .vending-selection .ui-currency { flex: 0 0 auto; white-space: nowrap; }
 			.vending-help { margin: 8dp 0; }
 			#vending-state { margin-bottom: 8dp; }
