@@ -3,7 +3,6 @@
 Small fixes for ROSE Online's **default** UI, as an add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher):
 
 - Crafting list, personal store management bag and character select list: the scrollbar only shows when the list is long enough to need it.
-- Personal store: the selected item's name and price are centred.
 - Monster info: the element and drop rate tooltips wrap and fit their text.
 
 The [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme already has these fixes.
