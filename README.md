@@ -4,6 +4,7 @@ Small fixes for ROSE Online's **default** UI, as an add-on for [ROSE Mod Launche
 
 - Crafting list, personal store management bag and character select list: the scrollbar only shows when the list is long enough to need it.
 - Player shops (a shop you visit and your own store): the shop name is centred in the title bar, and under the slots the item name sits on the left (wrapping onto more lines when long) with its price on the right, level with each other.
+- Hotbars: two bars placed close together no longer catch each other's mouse or draw their frame over each other.
 - Monster info: the element and drop rate tooltips wrap and fit their text.
 
 The [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme already has these fixes.
