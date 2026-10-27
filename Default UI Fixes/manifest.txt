@@ -1,15 +1,15 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.9
-842b0e131f57a8fab0b39e3e7f273dbc0cd71dd3|mod.ini
+version=1.10
+f4d4b9ac9cf6e91362083a23f7280f95141f97c7|mod.ini
 aac6d8d4ad93629e6a8e81a9c93ea65839935e5e|files/Data/ui/sp_addons/ui_fixes.txt
-e1cc2dc1683fdac9982bb956a0d4e0ef06e203d0|files/Data/ui/themes/rose/game/avatar_selection.html
-819f477e88caae467f467694d42bd3a9edf7b97c|files/Data/ui/themes/rose/game/avatar_store.html
-85b1c6a2cf24e1fcbbc78cebe1b629d794dac5c7|files/Data/ui/themes/rose/game/crafting.html
-2621e37b3dcb2b886118ee9b5c0079f0140a3c92|files/Data/ui/themes/rose/game/hud.html
-da7e121a43e422f536847e1a903be5d42a1ade04|files/Data/ui/themes/rose/game/inventory.html
-03bcbedff30c8d622d8da0f0b725bd3579e844eb|files/Data/ui/themes/rose/game/monster_inspector.html
-6a801ce161baff9dd8b16be93920485d62d47a4b|files/Data/ui/themes/rose/game/personal_store_management.html
-535a794bf64d33b07104ee3d347cfe71d8b781fe|files/Data/ui/themes/rose/game/personal_vending.html
-e778b0cdaba630a776bedb0e4a16aac056faf8e7|files/Data/ui/themes/rose/game/quickbar.html
+056aba8ce5aaa5af0b0e88977d33861e5cc30442|files/Data/ui/themes/rose/game/avatar_selection.html
+9fa479899c47827c30516241a9312d82ae8422af|files/Data/ui/themes/rose/game/avatar_store.html
+4b6ee3a8abe16c9964e3aa850f5344fc7900d3f4|files/Data/ui/themes/rose/game/crafting.html
+080e4406d27e05658ba7df3ab99c35c30f7d588b|files/Data/ui/themes/rose/game/hud.html
+be2d4101e9f87b92a13d6f333139db77e7783361|files/Data/ui/themes/rose/game/inventory.html
+0eafad4f972edba29f2d632876f903229524c790|files/Data/ui/themes/rose/game/monster_inspector.html
+3b17787d2f2d5fa5facb39b7ab7622d3450cec0a|files/Data/ui/themes/rose/game/personal_store_management.html
+d282e1e94b4e4a3cf5ff88f93191709b325f6346|files/Data/ui/themes/rose/game/personal_vending.html
+96bbf3b9cb2d1b707310d08b80e4e949b099274b|files/Data/ui/themes/rose/game/quickbar.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
