@@ -1,14 +1,10 @@
 # Default UI Fixes
 
-Small fixes for ROSE Online's **default** UI, as an add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher):
+Small fixes for the game's windows.
 
-- Crafting list, personal store management bag and character select list: the scrollbar only shows when the list is long enough to need it.
-- Player shops (a shop you visit and your own store): the shop name is centred in the title bar, and under the slots the item name sits on the left (wrapping onto more lines when long) with its price on the right, level with each other.
-- Hotbars: two bars placed close together no longer catch each other's mouse or draw their frame over each other.
-- Inventory: the Zulie and weight stay on one line.
-- Monster info: the element and drop rate tooltips wrap and fit their text.
+Small fixes: the crafting list, store management bag and character list only show a scrollbar when they need one, the monster info tooltips fit their text, two hotbars close together no longer clip each other, the inventory's Zulie and weight stay on one line, and player shops have the shop name centred in the title bar, with the item name on the left (wrapping when long) and its price on the right.
 
-The [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme already has these fixes.
+An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's default UI and the Steampunk UI theme. Without the launcher, copy the `Data` folder from `files` into your ROSE Online folder.
 
 ## Install
 1. Download this repo (Code > Download ZIP) and open it.
@@ -16,3 +12,32 @@ The [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme already has these 
 3. Open the launcher, press **Mods**, tick **Default UI Fixes**, and restart the game.
 
 It updates itself from this repo whenever the launcher opens.
+
+## Works with the other add-ons
+Every add-on works on its own, and any mix of them works together. Add-ons
+that change the same window (Options, the HUD, the party and group windows)
+carry the very same copy of that file, and each part only runs while its own
+add-on is installed: each add-on puts a small marker file in
+`Data/ui/sp_addons/`, which the launcher removes again with the add-on.
+In **Options > UI > Add-ons** each installed add-on adds its own line, one
+under the other, in the order they are listed there.
+
+## Default UI or Steampunk
+Each window it changes holds both looks: the game's own and the [Steampunk UI](https://github.com/Zurnny/SteamPunk) theme's. When the window opens it checks whether Steampunk is installed (`styles/steampunk.css`) and uses that look, so it works with either one, with or without the launcher. With Steampunk, the Steampunk theme's own features stay on too.
+
+The switches are saved in `sp_addons.txt` in the ROSE Online folder. The Ice UI
+theme uses the same file; both keep each other's settings.
+
+## Files it changes
+- `Data/ui/themes/rose/game/avatar_selection.html`
+- `Data/ui/themes/rose/game/avatar_store.html`
+- `Data/ui/themes/rose/game/crafting.html`
+- `Data/ui/themes/rose/game/inventory.html`
+- `Data/ui/themes/rose/game/monster_inspector.html`
+- `Data/ui/themes/rose/game/personal_store_management.html`
+- `Data/ui/themes/rose/game/personal_vending.html`
+- `Data/ui/themes/rose/game/quickbar.html`
+- `Data/ui/themes/rose/styles/sp_addons_steampunk.css` (Steampunk look, shared by the add-ons)
+- `Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css` (Steampunk look, shared by the add-ons)
+
+Turning it off in the launcher puts the game's own files back.

@@ -1,11 +1,13 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.7
-784e8f2b52a77b126d0eda3e8603f97adf7c6db8|files/Data/ui/themes/rose/game/avatar_selection.html
-806d939459c5ba415565add3ffd2edf46518c432|files/Data/ui/themes/rose/game/crafting.html
-8bf657d28cc682ab79b1b9b273edaaa5f584fcef|files/Data/ui/themes/rose/game/personal_store_management.html
-2ecf4509fe191298373623e09b5173483c4bff42|mod.ini
-b4c45c14abe82079c5ca50bfe4597db015a5319c|files/Data/ui/themes/rose/game/monster_inspector.html
-40460fec0e5c3f60afa7f8646e6d544a5b4d31f4|files/Data/ui/themes/rose/game/avatar_store.html
-4e3665ac7b2447f52fefc3e7584bb77e8def79af|files/Data/ui/themes/rose/game/personal_vending.html
-69331f5444593c8f1e457d22af63f24f28718c93|files/Data/ui/themes/rose/game/quickbar.html
-9649db83c01bae43d5dcd17e4e9f99c9204dd444|files/Data/ui/themes/rose/game/inventory.html
+version=1.8
+410992f01931ed20096bd9f3dc123bd445f59f73|mod.ini
+e1cc2dc1683fdac9982bb956a0d4e0ef06e203d0|files/Data/ui/themes/rose/game/avatar_selection.html
+819f477e88caae467f467694d42bd3a9edf7b97c|files/Data/ui/themes/rose/game/avatar_store.html
+85b1c6a2cf24e1fcbbc78cebe1b629d794dac5c7|files/Data/ui/themes/rose/game/crafting.html
+da7e121a43e422f536847e1a903be5d42a1ade04|files/Data/ui/themes/rose/game/inventory.html
+03bcbedff30c8d622d8da0f0b725bd3579e844eb|files/Data/ui/themes/rose/game/monster_inspector.html
+6a801ce161baff9dd8b16be93920485d62d47a4b|files/Data/ui/themes/rose/game/personal_store_management.html
+535a794bf64d33b07104ee3d347cfe71d8b781fe|files/Data/ui/themes/rose/game/personal_vending.html
+e778b0cdaba630a776bedb0e4a16aac056faf8e7|files/Data/ui/themes/rose/game/quickbar.html
+c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
+80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
