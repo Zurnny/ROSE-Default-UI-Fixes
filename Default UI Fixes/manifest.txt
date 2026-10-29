@@ -1,16 +1,16 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.16
-4e572e1e57b19243034381f8dd8c17ad3427d66e|mod.ini
+version=1.17
+dc6fa92fdc6667b51d2afdfb24419d25f96a41c0|mod.ini
 aac6d8d4ad93629e6a8e81a9c93ea65839935e5e|files/Data/ui/sp_addons/ui_fixes.txt
-833ff200b640356451fd1199dee6ad2cfd836dd2|files/Data/ui/themes/rose/game/avatar_selection.html
-3d828ec38e73bf55afdac33983bf8cac6fb0cbf0|files/Data/ui/themes/rose/game/avatar_store.html
-c3a893c95b7c0066cd7df7032185190a206c00aa|files/Data/ui/themes/rose/game/crafting.html
-5ec48aceeadd4a2489ba7aa938ad659a2c219edb|files/Data/ui/themes/rose/game/hud.html
+c1a56505031ddfa14399700609079baadfaf38b8|files/Data/ui/themes/rose/game/avatar_selection.html
+6e32691482d3d2960a3b603d89208ad5bf2d965c|files/Data/ui/themes/rose/game/avatar_store.html
+c393fd3514c50c8087d5e26d14c1de940539eae7|files/Data/ui/themes/rose/game/crafting.html
+d7e2c2c3a0b34b74ebefd27b0d69327b5088a7ac|files/Data/ui/themes/rose/game/hud.html
 8f17dc2ee09961b11e90fc8c843f1b99c456e25b|files/Data/ui/themes/rose/game/inventory.html
-2480f1d982bba4c18ba82c9eaf8bf4cc13541c8f|files/Data/ui/themes/rose/game/monster_inspector.html
-c3f9bbba22f1ce3b460ca694a85dd76e4693e700|files/Data/ui/themes/rose/game/personal_store_management.html
-31de968be8a954cfcabd36871f2c3a3c3d85734d|files/Data/ui/themes/rose/game/personal_vending.html
-aaa87dea8697996bb4c867aa1d8d5e525729e5b6|files/Data/ui/themes/rose/game/quickbar.html
-e3ce783abad54cc3efa55fc1c12ebb815144cdf6|files/Data/ui/themes/rose/game/skill_hud.html
+a790208fb267b9ef974d4e7aca791a9223234c8d|files/Data/ui/themes/rose/game/monster_inspector.html
+5f335565223d9b6be6ab97d6292d0b6c29df5081|files/Data/ui/themes/rose/game/personal_store_management.html
+778844a6c1a661a5dba3c04e2db2f428f9b92528|files/Data/ui/themes/rose/game/personal_vending.html
+890e58c5b5ea4f1d7739e49661ecf7b8f99f3dba|files/Data/ui/themes/rose/game/quickbar.html
+f0f44388059aaf033bd53e12e47b895d5186df46|files/Data/ui/themes/rose/game/skill_hud.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
