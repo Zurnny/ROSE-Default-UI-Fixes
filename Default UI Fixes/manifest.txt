@@ -1,6 +1,6 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.15
-1683049022e725b6020cc119bb4aea38c9d0a5fd|mod.ini
+version=1.16
+4e572e1e57b19243034381f8dd8c17ad3427d66e|mod.ini
 aac6d8d4ad93629e6a8e81a9c93ea65839935e5e|files/Data/ui/sp_addons/ui_fixes.txt
 833ff200b640356451fd1199dee6ad2cfd836dd2|files/Data/ui/themes/rose/game/avatar_selection.html
 3d828ec38e73bf55afdac33983bf8cac6fb0cbf0|files/Data/ui/themes/rose/game/avatar_store.html
@@ -11,5 +11,6 @@ c3a893c95b7c0066cd7df7032185190a206c00aa|files/Data/ui/themes/rose/game/crafting
 c3f9bbba22f1ce3b460ca694a85dd76e4693e700|files/Data/ui/themes/rose/game/personal_store_management.html
 31de968be8a954cfcabd36871f2c3a3c3d85734d|files/Data/ui/themes/rose/game/personal_vending.html
 aaa87dea8697996bb4c867aa1d8d5e525729e5b6|files/Data/ui/themes/rose/game/quickbar.html
+e3ce783abad54cc3efa55fc1c12ebb815144cdf6|files/Data/ui/themes/rose/game/skill_hud.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css

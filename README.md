@@ -2,7 +2,7 @@
 
 Small fixes for the game's windows.
 
-Small fixes: the crafting list, store management bag and character list only show a scrollbar when they need one, the monster info tooltips fit their text, two hotbars close together no longer clip each other, the inventory's Zulie and weight stay on one line, the EXP percentage sits centred on the HUD's EXP bar, and player shops have the shop name centred in the title bar, with the item name on the left (wrapping when long) and its price on the right.
+Small fixes: the crafting list, store management bag and character list only show a scrollbar when they need one, the monster info tooltips fit their text, two hotbars close together no longer clip each other, the inventory's Zulie and weight stay on one line, the EXP percentage sits centred on the HUD's EXP bar, the buff and proc icons by the minimap sit a little further left, clear of its edge, and player shops have the shop name centred in the title bar, with the item name on the left (wrapping when long) and its price on the right.
 
 An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's default UI and the Steampunk UI theme. Without the launcher, copy the `Data` folder from `files` into your ROSE Online folder.
 
@@ -38,6 +38,7 @@ theme uses the same file; both keep each other's settings.
 - `Data/ui/themes/rose/game/personal_store_management.html`
 - `Data/ui/themes/rose/game/personal_vending.html`
 - `Data/ui/themes/rose/game/quickbar.html`
+- `Data/ui/themes/rose/game/skill_hud.html`
 - `Data/ui/themes/rose/styles/sp_addons_steampunk.css` (Steampunk look, shared by the add-ons)
 - `Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css` (Steampunk look, shared by the add-ons)
 - `Data/ui/sp_addons/ui_fixes.txt` (marker)
