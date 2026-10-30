@@ -1,11 +1,11 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.27
-15dadb13b512625d79db4bb6cc141b1672504ca5|mod.ini
+version=1.28
+cd45a8ac0dfde76e31a0865d5be163861d422a1e|mod.ini
 aac6d8d4ad93629e6a8e81a9c93ea65839935e5e|files/Data/ui/sp_addons/ui_fixes.txt
 c1a56505031ddfa14399700609079baadfaf38b8|files/Data/ui/themes/rose/game/avatar_selection.html
 6e32691482d3d2960a3b603d89208ad5bf2d965c|files/Data/ui/themes/rose/game/avatar_store.html
-b5122ec3ef0dfd92d0ef17dc9c04152b2ae039f5|files/Data/ui/themes/rose/game/crafting.html
-d09d2a90b6a9f57cfd378516afbf64f0c5efc93a|files/Data/ui/themes/rose/game/hud.html
+5f4f545b463486384be5025da3c2d616bb620369|files/Data/ui/themes/rose/game/crafting.html
+fdb56cd3aed46959458fdee8deb57f77f3faf5cd|files/Data/ui/themes/rose/game/hud.html
 8f17dc2ee09961b11e90fc8c843f1b99c456e25b|files/Data/ui/themes/rose/game/inventory.html
 65af82783a1f7ae21032a0c40ec1125c691e3da3|files/Data/ui/themes/rose/game/message_box.html
 a790208fb267b9ef974d4e7aca791a9223234c8d|files/Data/ui/themes/rose/game/monster_inspector.html
