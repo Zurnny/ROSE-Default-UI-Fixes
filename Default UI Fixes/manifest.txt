@@ -1,10 +1,10 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.22
-64cea93382f6d2d7be4e5223cf2da4178d06c56a|mod.ini
+version=1.23
+8049cd2801da00f2d198ade96de6e0fba7c6e624|mod.ini
 aac6d8d4ad93629e6a8e81a9c93ea65839935e5e|files/Data/ui/sp_addons/ui_fixes.txt
 c1a56505031ddfa14399700609079baadfaf38b8|files/Data/ui/themes/rose/game/avatar_selection.html
 6e32691482d3d2960a3b603d89208ad5bf2d965c|files/Data/ui/themes/rose/game/avatar_store.html
-c393fd3514c50c8087d5e26d14c1de940539eae7|files/Data/ui/themes/rose/game/crafting.html
+3c8bb493ffd387878eb60e14cbce76aa9db7a5f8|files/Data/ui/themes/rose/game/crafting.html
 f6a3ba1a8244385efba3ad63412bae9f81982db4|files/Data/ui/themes/rose/game/hud.html
 8f17dc2ee09961b11e90fc8c843f1b99c456e25b|files/Data/ui/themes/rose/game/inventory.html
 65af82783a1f7ae21032a0c40ec1125c691e3da3|files/Data/ui/themes/rose/game/message_box.html
@@ -14,4 +14,4 @@ a790208fb267b9ef974d4e7aca791a9223234c8d|files/Data/ui/themes/rose/game/monster_
 890e58c5b5ea4f1d7739e49661ecf7b8f99f3dba|files/Data/ui/themes/rose/game/quickbar.html
 988a03284e63fb78955f8118620fc58d94b41013|files/Data/ui/themes/rose/game/skill_hud.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
-62a3c46f80ba6f216e811173802298d1936215ff|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
+0284ef27b24d89b2dfa20d4956773d170fd06ef1|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
