@@ -1,6 +1,6 @@
 ; Update list for Default UI Fixes. Upload this next to mod.ini and the files folder.
-version=1.20
-25d089c3a30508a46d2aade796c10743ec614af2|mod.ini
+version=1.21
+7751f5e6ffa2a6505133d67c3d6bc3ab85e9bebd|mod.ini
 aac6d8d4ad93629e6a8e81a9c93ea65839935e5e|files/Data/ui/sp_addons/ui_fixes.txt
 c1a56505031ddfa14399700609079baadfaf38b8|files/Data/ui/themes/rose/game/avatar_selection.html
 6e32691482d3d2960a3b603d89208ad5bf2d965c|files/Data/ui/themes/rose/game/avatar_store.html
@@ -12,6 +12,6 @@ a790208fb267b9ef974d4e7aca791a9223234c8d|files/Data/ui/themes/rose/game/monster_
 5f335565223d9b6be6ab97d6292d0b6c29df5081|files/Data/ui/themes/rose/game/personal_store_management.html
 778844a6c1a661a5dba3c04e2db2f428f9b92528|files/Data/ui/themes/rose/game/personal_vending.html
 890e58c5b5ea4f1d7739e49661ecf7b8f99f3dba|files/Data/ui/themes/rose/game/quickbar.html
-f0f44388059aaf033bd53e12e47b895d5186df46|files/Data/ui/themes/rose/game/skill_hud.html
+455981592ed6b48d961ac0af627c317d0f8b0dab|files/Data/ui/themes/rose/game/skill_hud.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 62a3c46f80ba6f216e811173802298d1936215ff|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
